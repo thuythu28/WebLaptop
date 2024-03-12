@@ -1,0 +1,8 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": true,
+    "i18n-ally.localesPaths": [
+        "resources/lang",
+        "public/summernote/lang",
+        "public/backend/summernote/lang"
+    ]
+}
